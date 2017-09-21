@@ -3,3 +3,4 @@
 	git is always under GPL
 	git tracks changes of files;
 	git have a new branchs
+	git have some trouble
