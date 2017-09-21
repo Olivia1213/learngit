@@ -3,4 +3,8 @@
 	git is always under GPL
 	git tracks changes of files;
 	git have a new branchs
-	git have some trouble with feature
+<<<<<<< HEAD
+	git have some trouble 
+=======
+	git have some trouble
+>>>>>>> feature1
